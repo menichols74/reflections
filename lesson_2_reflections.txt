@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 	Offshoot projects, trial ideas to working project, alternate COAs... logical branch for each COA or keep the working
 	copy intact while trying a new idea
 
+How do the diagrams help you visualize the branch structure?
+
+	easier to see than read
+
